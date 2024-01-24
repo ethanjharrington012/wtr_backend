@@ -17,6 +17,7 @@
     "define-data-property": "^1.1.1",
     "depd": "^2.0.0",
     "destroy": "^1.2.0",
+    "dotenv": "^16.4.1",
     "ee-first": "^1.1.1",
     "encodeurl": "^1.0.2",
     "escape-html": "^1.0.3",
@@ -42,6 +43,8 @@
     "mime": "^1.6.0",
     "mime-db": "^1.52.0",
     "mime-types": "^2.1.35",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.1.1",
     "ms": "^2.0.0",
     "negotiator": "^0.6.3",
     "object-inspect": "^1.13.1",
@@ -66,7 +69,6 @@
     "utils-merge": "^1.0.1",
     "vary": "^1.1.2"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "wtr.test",
     "start": "node app.json"
